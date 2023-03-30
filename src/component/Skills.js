@@ -22,9 +22,11 @@ export default function Skills() {
   };
 
   return (
-    <div id="skills" className="py-8 text-slate-700">
-      <h1 className="text-2xl text-white font-bold">Skills</h1>
-      <p className="font-light text-gray-400">Here are some of my skills</p>
+    <div id="skills" className="py-4 text-slate-700">
+      <h2 className="text-2xl text-white font-bold">Skills</h2>
+      <p className="font-light text-gray-400">
+        My Skills as Professional Developer
+      </p>
 
       <div className="mt-4">
         <Slider {...settings}>

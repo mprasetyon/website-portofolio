@@ -11,15 +11,15 @@ export default function Hiro() {
     <>
       <div
         id="home"
-        className="flex w-full h-screen flex-col md:flex-row items-center justify-center text-white relative"
+        className="flex w-fullflex-col md:flex-row items-center justify-center text-white relative"
       >
         <div className="md:w-3/6">
-          <div class="flex flex-wrap justify-center">
-            <div class="w-6/12 sm:w-4/12 px-4">
+          <div className="flex flex-wrap justify-center">
+            <div className="w-6/12 sm:w-4/12 px-4">
               <img
                 src={profile}
                 alt="profile"
-                class="shadow rounded-full max-w-full h-auto align-middle border-none"
+                className="shadow rounded-full max-w-full h-auto align-middle border-none"
               />
             </div>
           </div>
@@ -32,10 +32,10 @@ export default function Hiro() {
               Frontend Developer
             </p>
             <p className="text-md font-light text-gray-400 ">
-              Enthusiastic and motivated self-learning in Information
-              Technology. Interested in exploring about Computer Network, Cloud
-              Computing, DevSecops, and Web Development. Now I am looking for
-              more experience in my field.
+              Enthusiast and frontend developer, started his career since 2020.
+              motivated to keep learning and learning new things in technology.
+              interested in software development. Like my life motto "Keep
+              learning by doing"
             </p>
           </div>
           <ul className="flex mt-2 gap-4 items-center">
