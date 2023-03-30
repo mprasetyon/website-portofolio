@@ -11,7 +11,7 @@ export default function Hiro() {
     <>
       <div
         id="home"
-        className="flex w-fullflex-col md:flex-row items-center justify-center text-white relative"
+        className="flex w-full h-screen flex-col md:flex-row items-center justify-center text-white relative"
       >
         <div className="md:w-3/6">
           <div className="flex flex-wrap justify-center">
